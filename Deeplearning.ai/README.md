@@ -1,2 +1,2 @@
 # Deeplearning.ai
-Assignments for deeplearning course offered by deeplearning.ai on Coursera.
+Assignments for deeplearning course offered by deeplearning.ai.
